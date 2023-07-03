@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fikunmi Aluko</h1>
-<h3 align="center">A passionate, hardworking front-end & back-end developer from Nigeria</h3>
+<h3 align="center">A passionate, hardworking software engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.myportfolio.com%2F2fcfcb103788251450a8304378dffded%2Fa62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif%3Fh%3De8c7ce55b326319eaca316cc1e74518f&tbnid=fxK5tONPokeGrM&vet=12ahUKEwi5nvPZ_e3-AhUisUwKHduLDMkQMygVegUIARC6Ag..i&imgrefurl=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&docid=Frj2byXTE_rX_M&w=1000&h=756&q=animated%20gif%20coding&ved=2ahUKEwi5nvPZ_e3-AhUisUwKHduLDMkQMygVegUIARC6Ag")>
 
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fikunmi06" alt="fikunmi06" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs,python, django & MonngoDB**
+- 🌱 I’m currently learning **Nodejs, VueJS, ReactJS, MonngoDB Kotlin**
 
-- 💬 Ask me about **Html, CSS & JavaScript**
+- 💬 Ask me about **Html, CSS, Bootstrap-5, SQL, JavaScript & NodeJS**
 
-- 📫 How to reach me **samuelfik2016@gmail.com**
+- 📫 How to reach me **alukosamuel83@gmail.com**
 
 - ⚡ Fun fact **I am talented**
 
